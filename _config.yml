@@ -19,7 +19,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: h4fan security                          # the main title
+title: Cyber Security HQ                          # the main title
 
 tagline: Yet another security blog   # it will display as the sub-title
 
@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   security blog, web sec, pentest
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://cybersecurityhq.github.io'
 
 github:
   username: h4fan             # change to your github username
